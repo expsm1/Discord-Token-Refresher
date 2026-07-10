@@ -27,3 +27,9 @@ Regain control of your Discord bot if a third-party service has taken over your 
 5. Copy the new token.
 6. Update your `.env` file.
 7. Kick any suspicious bots from your server.
+
+## Disclaimer
+This tool is for legitimate recovery purposes only. Do not use it to steal, hijack, or take control of bots that you do not own. The author is not responsible for any misuse.
+
+## License
+MIT – free to use and modify.
