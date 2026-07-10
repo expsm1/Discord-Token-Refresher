@@ -28,6 +28,8 @@ Regain control of your Discord bot if a third-party service has taken over your 
 6. Update your `.env` file.
 7. Kick any suspicious bots from your server.
 
+# Screenshot
+
 <img width="1920" height="1040" alt="Screenshot from 2026-07-10 22-51-20" src="https://github.com/user-attachments/assets/a41d796c-efda-4d2e-a813-ebe566ea94ab" />
 
 
